@@ -2,22 +2,20 @@
 
 /* Add styles here to customize the appearance of your app */
 body{
-    background-color: #3e3e3e;
+    background-color: #A4EDEA;
 }
 
 button {
-    background-color: rgba(3, 3, 134, 0.872);/*#4CAF50; /* Green */
+  
+    background-color: #9ECCEA;/*#4CAF50; /* Green */
     border: none;
-    color: white;
+    color: #2A296A;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
-
-  h2 {
-    color: rgb(255, 255, 255);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
   }
 
   #fila {
@@ -39,6 +37,7 @@ button {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: rgba(3, 3, 134, 0.872);
-    color: white;
+    background-color: #9ECCEA;
+    color: #2A296A;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
   }
